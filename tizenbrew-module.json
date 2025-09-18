@@ -1,0 +1,10 @@
+{
+  "id": "tizenbrew-stremio-addon",
+  "name": "Stremio Addon",
+  "description": "A Stremio add-on packaged for Samsung TVs via TizenBrew.",
+  "version": "1.0.0",
+  "author": "Your Name",
+  "entry": "index.js",
+  "icon": "icon.png",
+  "repository": "https://github.com/yourusername/tizenbrew-stremio-addon"
+}
